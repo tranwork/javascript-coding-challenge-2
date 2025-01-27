@@ -8,6 +8,6 @@ This repository contains my work for the **JavaScript Objects and Arrays Coding 
 - `README.md` – Documentation file.
 
 ## How to Run
-1. Clone the repository:
+Clone the repository:
    ```sh
    https://github.com/tranwork/javascript-coding-challenge-2
